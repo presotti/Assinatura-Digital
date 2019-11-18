@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Pro:500i&display=swap');
+
+.foto{
+    border-right: 2px solid;
+    border-color: blue;
+    padding: 0 7px 0 0;    
+}
+
+.foto img{
+    border-radius: 50%;
+}
+
+#coluna2{
+    font-family:'Crimson Pro', serif;
+    color: darkblue;
+}
+
+.nome{
+    font-size: 25px;
+    padding: 0 0 0 5px;
+}
+
+.curso{
+    font-size: 22px;
+    padding: 0 0 15px 5px;
+}
+
+.linkedin{
+    font-size: 19px;
+    padding: 0 0 0 5px;
+}
+
+.github{
+    font-size: 19px;
+    padding: 0 0 0 5px;
+    
+}
+
+.celular{
+    font-size: 19px;
+    padding: 0 0 0 5px;
+}
+
+.email{
+    font-size: 19px;
+    padding: 0 0 0 5px;
+}
+
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+.alinhamento{
+    vertical-align:super;
+}
+
+.linkedin img{
+    width: 25px;
+    height: 25px;
+    padding: 2px 3px 1px 0;
+}
+
+.github img{
+    width: 27px;
+    height: 27px;
+    padding: 2px 6px 1px 0;
+}
+
+.celular img{
+    width: 25px;
+    height: 25px;
+    padding: 2px 8px 1px 0;
+}
+
+.email img{
+    width: 25px;
+    height: 25px;
+    padding: 2px 8px 1px 0;
+}
